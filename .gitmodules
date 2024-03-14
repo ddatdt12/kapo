@@ -1,0 +1,9 @@
+[submodule "kapo-host-api"]
+	path = kapo-host-api
+	url = git@github.com:ddatdt12/kapo-host-api.git
+[submodule "kapo-play-web"]
+	path = kapo-play-web
+	url = git@github.com:ddatdt12/kapo-play-web.git
+[submodule "kapo-play-ws-server"]
+	path = kapo-play-ws-server
+	url = git@github.com:ddatdt12/kapo-play-ws-server.git
