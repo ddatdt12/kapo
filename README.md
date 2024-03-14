@@ -1,6 +1,11 @@
 # Kapo
 
-![](assets/kapo-demo.gif)
+<!--  center  -->
+
+<p align="center">
+  <img src="assets/kapo-demo.gif" alt="banner"
+  style="max-width: 800px;"/>
+  <br>
 
 <p align="center">
   Demo of Kapo
